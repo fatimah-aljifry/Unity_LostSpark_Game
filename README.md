@@ -17,7 +17,8 @@ Unity (Game Engine)
 C# (Scripting)
 Blender (3D Assets)
 Java (Custom object integration)
-![Gameplay](Screenshots/Screenshot 2026-04-08 at 9.17.31 PM.png)
+
+[Gameplay](Screenshots/Screenshot 2026-04-08 at 9.17.31 PM.png)
 
 
 
