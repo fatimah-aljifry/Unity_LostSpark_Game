@@ -27,6 +27,3 @@ Open in Unity Hub
 Load the main scene and press Play
 
 
-Author
-
-Fatimah Aljifry
